@@ -1,0 +1,3 @@
+# The local n8n install and everything a test run writes.
+test/.runtime/
+test/.scratch/
